@@ -62,9 +62,13 @@ Data sourced from the public Airbnb dataset for New York City, originally from [
 ## Author
 
 **Chirag Choudhary**  
-Email: chiragcbsc@gmail.com  
+
+chiragcbsc@gmail.com  
+
 [LinkedIn](https://www.linkedin.com/in/chirag-choudhary-64a420265/)
+
 [GitHub](https://github.com/ChiragHooda)  
+
 [Portfolio](https://chiragcbsc.wixsite.com/chiragaiportfolio-1)
 
 ---
