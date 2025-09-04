@@ -1,1 +1,0 @@
-# Employee-Data-Analytics-SQL
